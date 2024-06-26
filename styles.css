@@ -1,0 +1,13 @@
+body {
+    padding-top: 56px;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.chart-container {
+    position: relative;
+    height: 40vh;
+    width: 80vw;
+}
